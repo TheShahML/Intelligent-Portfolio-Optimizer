@@ -13,7 +13,7 @@ Core technologies include Python, NumPy, Pandas, CVXPY, and Scikit-learn. Data s
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/intelligent-portfolio-optimizer.git
+git clone https://github.com/theshahml/intelligent-portfolio-optimizer.git
 cd intelligent-portfolio-optimizer
 pip install -r requirements.txt
 ```
