@@ -33,6 +33,7 @@ src/
 - AI analysis integration
 - Interactive web application  
 - Performance attribution dashboard
+- ORP + OTP Allocation guidance
 
 ## Requirements
 - Python 3.8+
