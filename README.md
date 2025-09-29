@@ -30,9 +30,9 @@ src/
 ```
 
 ## Planned Features
-- [ ] AI analysis integration
-- [ ] Interactive web application  
-- [ ] Performance attribution dashboard
+- AI analysis integration
+- Interactive web application  
+- Performance attribution dashboard
 
 ## Requirements
 - Python 3.8+
