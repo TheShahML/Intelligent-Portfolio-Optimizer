@@ -34,6 +34,8 @@ src/
 - Interactive web application  
 - Performance attribution dashboard
 - ORP + OTP Allocation guidance
+- cVar Optimization
+- Benchmark portfolio vs optimized variants across Monte Carlo Simulations
 
 ## Requirements
 - Python 3.8+
